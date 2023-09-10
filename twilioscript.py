@@ -11,7 +11,7 @@ client = Client(account_sid, auth_token)
 message = client.messages.create(
   from_='+18447813048',
   body='test',
-  to='+12254543021'
+  to='+16102481063'
 )
 
 print(message.sid)

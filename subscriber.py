@@ -21,7 +21,7 @@ subscription_path = 'projects/stalwart-realm-339201/subscriptions/fraudulent-sub
 message = client.messages.create(
   from_='+18447813048',
   body='test',
-  to='+12254543021'
+  to='+16102481063'
 )
 
 def callback(message):
